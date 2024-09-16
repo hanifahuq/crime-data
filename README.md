@@ -21,9 +21,9 @@ pipeline_tests.py: Tests of functions from data_handling
 pipeline.py: The final pipeline using functions from data handling
 
 Data Sources:
-Crime data: [Police.uk](https://data.police.uk/data/)
-Estate prices paid (Over 2021-2022) - [Price Paid Data - GOV.UK (www.gov.uk)](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#single-file)
-Deprivation (Review last released in 2019) - [English indices of deprivation 2019 (opendatacommunities.org)](https://imd-by-geo.opendatacommunities.org/imd/2019/area)
+- Crime data: [Police.uk](https://data.police.uk/data/)
+- Estate prices paid (Over 2021-2022) - [Price Paid Data - GOV.UK (www.gov.uk)](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#single-file)
+- Deprivation (Review last released in 2019) - [English indices of deprivation 2019 (opendatacommunities.org)](https://imd-by-geo.opendatacommunities.org/imd/2019/area)
 
 
 Contributions to the project are welcome. Please follow the standard GitHub workflow for creating pull requests and addressing issues.
